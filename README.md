@@ -14,28 +14,15 @@ MySQL para las bases de datos y Java 17 para el desarrollo con ayuda del IDE de 
 
 El foro cuenta con las funcionalidades siguiente:
 
-**1**
+**1.** Crear un nuevo tema.
 
-- Crear un nuevo tema.
+**2.** Mostrar todos los temas creados.
 
-**2**
+**3.** Mostrar un tema en específico.
 
-- Mostrar todos los temas creados.
+**4.** Actualización del tema.
 
-**3**
-
-- Mostrar un tema en específico.
-
-**4.**
-
-* Actualización del tema.
-
-**5**
-
-- Eliminar un tema.
-Funcionalidad 6: 
-Funcionalidad 7: 
-Funcionalidad 8: 
+**5.** Eliminar un tema.
 
 <div align="center">
 
@@ -45,20 +32,14 @@ Funcionalidad 8:
 
 La API Rest funciona de la siguiente manera:
 
-**1**
+**1.** API con rutas implementadas siguiendo las mejores prácticas del modelo Rest.
 
-- API con rutas implementadas siguiendo las mejores prácticas del modelo Rest.
+**2.** Validaciones realizadas según reglas del negócio.
 
-**2**
+**3.** Implementación de una base de datos para la persistencia de la información.
 
-- Validaciones realizadas según reglas del negócio.
+**4.** Servicio de autenticación/autorización para restringir el acceso a la información.
 
-**3**
 
-* Implementación de una base de datos para la persistencia de la información.
-
-**4**
-
-* Servicio de autenticación/autorización para restringir el acceso a la información.
 
 **¡Espero que disfrutes del ForoAlura!**
